@@ -1,0 +1,8 @@
+server/data.json
+server/data.json.tmp
+
+# private study material and large binaries
+INTERVIEW_GUIDE.md
+CHEAT_SHEET.md
+INTERVIEW_PREP.pdf
+release/*.apk
